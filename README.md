@@ -3,7 +3,6 @@
 I'm a **Full Stack Web Developer** passionate about building premium web applications, scalable backends, and deployment automation. I specialize in the **Next.js ecosystem** and **Headless CMS** architectures.
 
 - I’m currently working on **High-performance e-commerce & SaaS solutions**
-- I’m currently exploring **Headless Shopify, Embedded Systems (STM32) & RAG Technologies**
 - Ask me about **Next.js, Nest.js, Strapi v5, and Railway Deployments**
 - Fun fact: I love creating "One-Click Deploy" templates to make developers' lives easier.
 
